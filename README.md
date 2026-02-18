@@ -1,2 +1,21 @@
 # multi-threaded-port-scanner
-Developed a multi-threaded TCP port scanner in Python capable of scanning all 65535 ports. Implemented threading (200 threads) for faster execution and service detection using socket programming. Displays open ports and measures total scan time. Tested in a controlled lab environment.
+
+## 🔥 Overview
+Python-based TCP port scanner developed for cybersecurity practice. 
+Scans all 65535 ports using multi-threading for faster performance.
+
+## ⚙ Features
+- Scans ports 1–65535  
+- Multi-threading (200 threads)  
+- Service detection using socket  
+- Displays open ports  
+- Measures total scan time  
+
+## 🛠 Technologies Used
+- Python  
+- socket  
+- threading  
+- queue  
+
+## 🎯 Purpose
+Built for educational and controlled lab-based network scanning practice.
